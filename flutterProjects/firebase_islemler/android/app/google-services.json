@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "434778000951",
+    "firebase_url": "https://flutter-cal.firebaseio.com",
+    "project_id": "flutter-cal",
+    "storage_bucket": "flutter-cal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434778000951:android:0a7a7e23bba9fc25b5f9b2",
+        "android_client_info": {
+          "package_name": "com.doisoft.firebase_islemler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434778000951-ihb9elmsp80s1kfavipdacqk9cqh3q00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUkO5kBSwvmMxNgw8uTDmNNNEe31jmJSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434778000951-ihb9elmsp80s1kfavipdacqk9cqh3q00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
